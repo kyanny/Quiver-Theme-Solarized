@@ -29,7 +29,7 @@ def build_dark
   build('Solarized Dark.json')
 end
 
-task :build do
+task :default do
   build_light
   build_dark
 end
