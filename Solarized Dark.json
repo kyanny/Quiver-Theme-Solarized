@@ -1,233 +1,233 @@
 {
   "mainWindow": {
     "divider": {
-      "topColor": "",
-      "middleColor": "",
-      "bottomColor": ""
+      "topColor": "#073642",
+      "middleColor": "#073642",
+      "bottomColor": "#073642"
     }
   },
   "sidebar": {
     "topBar": {
-      "backgroundColor": "",
-      "bottomBorderColor": "",
+      "backgroundColor": "#002b36",
+      "bottomBorderColor": "#073642",
       "segmentedControl": {
-        "tintColor": "#586e75",
+        "tintColor": "#93a1a1",
         "borderWidth": 2,
         "borderRadius": 3
       }
     },
     "table": {
-      "backgroundColor": "",
-      "textColor": "",
-      "selectedTextColor": "#586e75",
-      "emphasizedTextColor": "#586e75",
-      "iconColor": "",
-      "selectedIconColor": "#586e75",
-      "emphasizedIconColor": "#586e75",
-      "selectedRowBgColor": "",
-      "emphasizedRowBgColor": ""
+      "backgroundColor": "#002b36",
+      "textColor": "#839496",
+      "selectedTextColor": "#93a1a1",
+      "emphasizedTextColor": "#93a1a1",
+      "iconColor": "#839496",
+      "selectedIconColor": "#93a1a1",
+      "emphasizedIconColor": "#93a1a1",
+      "selectedRowBgColor": "#073642",
+      "emphasizedRowBgColor": "#073642"
     },
     "bottomBar": {
-      "backgroundColor": "",
-      "topBorderColor": "",
-      "textColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75"
+      "backgroundColor": "#002b36",
+      "topBorderColor": "#073642",
+      "textColor": "#839496",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1"
     }
   },
   "noteList": {
     "topBar": {
-      "backgroundColor": "",
-      "bottomBorderColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75"
+      "backgroundColor": "#002b36",
+      "bottomBorderColor": "#073642",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1"
     },
     "tableHeader": {
-      "backgroundColor": "",
-      "bottomBorderColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75"
+      "backgroundColor": "#002b36",
+      "bottomBorderColor": "#073642",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1"
     },
     "table": {
-      "backgroundColor": "",
-      "separatorColor": "",
-      "textColor": "",
-      "selectedTextColor": "#586e75",
-      "emphasizedTextColor": "#586e75",
-      "detailColor": "#586e75",
-      "selectedDetailColor": "#586e75",
-      "emphasizedDetailColor": "#586e75",
-      "iconColor": "",
-      "selectedIconColor": "#586e75",
-      "emphasizedIconColor": "#586e75",
-      "rowBgColor": "",
-      "altRowBgColor": "",
-      "selectedRowBgColor": "",
-      "emphasizedRowBgColor": "",
-      "draggedRowBgColor": "",
-      "emptyTextColor": "#93a1a1"
+      "backgroundColor": "#002b36",
+      "separatorColor": "#073642",
+      "textColor": "#839496",
+      "selectedTextColor": "#93a1a1",
+      "emphasizedTextColor": "#93a1a1",
+      "detailColor": "#93a1a1",
+      "selectedDetailColor": "#93a1a1",
+      "emphasizedDetailColor": "#93a1a1",
+      "iconColor": "#839496",
+      "selectedIconColor": "#93a1a1",
+      "emphasizedIconColor": "#93a1a1",
+      "rowBgColor": "#002b36",
+      "altRowBgColor": "#002b36",
+      "selectedRowBgColor": "#073642",
+      "emphasizedRowBgColor": "#073642",
+      "draggedRowBgColor": "#073642",
+      "emptyTextColor": "#586e75"
     },
     "bottomBar": {
-      "backgroundColor": "",
+      "backgroundColor": "#002b36",
       "searchField": {
-        "textColor": "",
-        "controlColor": "",
-        "pressedControlColor": "#586e75",
-        "backgroundColor": "",
-        "borderColor": "#93a1a1",
-        "placeholderColor": "#93a1a1"
+        "textColor": "#839496",
+        "controlColor": "#839496",
+        "pressedControlColor": "#93a1a1",
+        "backgroundColor": "#002b36",
+        "borderColor": "#586e75",
+        "placeholderColor": "#586e75"
       }
     }
   },
   "noteView": {
-    "backgroundColor": "",
-    "dividerColor": "",
+    "backgroundColor": "#002b36",
+    "dividerColor": "#073642",
     "topBar": {
-      "backgroundColor": "",
-      "bottomBorderColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75",
+      "backgroundColor": "#002b36",
+      "bottomBorderColor": "#073642",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1",
       "segmentedControl": {
-        "tintColor": "#586e75",
+        "tintColor": "#93a1a1",
         "borderWidth": 2,
         "borderRadius": 3
       }
     },
     "toolbar": {
-      "backgroundColor": "",
-      "dividerColor": "",
-      "middleDividerColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75",
-      "iconColor": "#93a1a1",
-      "textColor": "",
+      "backgroundColor": "#002b36",
+      "dividerColor": "#073642",
+      "middleDividerColor": "#073642",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1",
+      "iconColor": "#586e75",
+      "textColor": "#839496",
       "popUpButton": {
-        "titleColor": "#586e75",
-        "borderColor": ""
+        "titleColor": "#93a1a1",
+        "borderColor": "#073642"
       },
       "tagField": {
-        "textColor": "",
-        "placeholderColor": "#93a1a1",
+        "textColor": "#839496",
+        "placeholderColor": "#586e75",
         "tag": {
-          "textColor": "#93a1a1",
-          "selectedTextColor": "",
-          "backgroundColor": "",
-          "selectedBackgroundColor": "",
+          "textColor": "#586e75",
+          "selectedTextColor": "#839496",
+          "backgroundColor": "#002b36",
+          "selectedBackgroundColor": "#073642",
           "borderRadius": 4
         }
       },
       "formatBar": {
-        "controlColor": "",
-        "highlightColor": "#586e75"
+        "controlColor": "#839496",
+        "highlightColor": "#93a1a1"
       },
       "searchField": {
-        "textColor": "",
-        "controlColor": "",
-        "pressedControlColor": "#586e75",
-        "backgroundColor": "",
-        "borderColor": "",
-        "placeholderColor": "#93a1a1"
+        "textColor": "#839496",
+        "controlColor": "#839496",
+        "pressedControlColor": "#93a1a1",
+        "backgroundColor": "#002b36",
+        "borderColor": "#073642",
+        "placeholderColor": "#586e75"
       },
       "doneButton": {
-        "textColor": "",
-        "highlightBackgroundColor": "",
-        "borderColor": ""
+        "textColor": "#839496",
+        "highlightBackgroundColor": "#073642",
+        "borderColor": "#073642"
       }
     },
     "bottomBar": {
-      "backgroundColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75"
+      "backgroundColor": "#002b36",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1"
     }
   },
   "multiNote": {
-    "backgroundColor": "",
-    "textColor": "",
+    "backgroundColor": "#002b36",
+    "textColor": "#839496",
     "button": {
-      "tintColor": "#586e75",
-      "highlightColor": "#586e75",
-      "backgroundColor": "",
-      "highlightBackgroundColor": "",
-      "borderColor": "",
-      "highlightBorderColor": ""
+      "tintColor": "#93a1a1",
+      "highlightColor": "#93a1a1",
+      "backgroundColor": "#002b36",
+      "highlightBackgroundColor": "#073642",
+      "borderColor": "#073642",
+      "highlightBorderColor": "#073642"
     },
     "tagField": {
-      "textColor": "",
-      "placeholderColor": "#93a1a1",
-      "backgroundColor": "",
-      "borderColor": "",
+      "textColor": "#839496",
+      "placeholderColor": "#586e75",
+      "backgroundColor": "#002b36",
+      "borderColor": "#073642",
       "borderRadius": 4,
       "tag": {
-        "textColor": "",
-        "selectedTextColor": "#586e75",
-        "backgroundColor": "",
-        "selectedBackgroundColor": "",
+        "textColor": "#839496",
+        "selectedTextColor": "#93a1a1",
+        "backgroundColor": "#002b36",
+        "selectedBackgroundColor": "#073642",
         "borderRadius": 4
       }
     }
   },
   "notebookPicker": {
-    "backgroundColor": "",
-    "textColor": "",
-    "dividerColor": "",
+    "backgroundColor": "#002b36",
+    "textColor": "#839496",
+    "dividerColor": "#073642",
     "searchField": {
-      "textColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75",
-      "backgroundColor": "",
-      "borderColor": "",
-      "placeholderColor": "#93a1a1"
+      "textColor": "#839496",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1",
+      "backgroundColor": "#002b36",
+      "borderColor": "#073642",
+      "placeholderColor": "#586e75"
     },
     "table": {
-      "textColor": "",
-      "selectedTextColor": "#586e75",
-      "emphasizedTextColor": "#586e75",
-      "iconColor": "",
-      "selectedIconColor": "#586e75",
-      "emphasizedIconColor": "#586e75",
-      "selectedRowBgColor": "",
-      "emphasizedRowBgColor": "",
-      "emptyTextColor": "#93a1a1"
+      "textColor": "#839496",
+      "selectedTextColor": "#93a1a1",
+      "emphasizedTextColor": "#93a1a1",
+      "iconColor": "#839496",
+      "selectedIconColor": "#93a1a1",
+      "emphasizedIconColor": "#93a1a1",
+      "selectedRowBgColor": "#073642",
+      "emphasizedRowBgColor": "#073642",
+      "emptyTextColor": "#586e75"
     }
   },
   "searchView": {
-    "backgroundColor": "",
+    "backgroundColor": "#002b36",
     "searchField": {
-      "textColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75",
-      "backgroundColor": "",
-      "borderColor": "",
-      "placeholderColor": "#93a1a1"
+      "textColor": "#839496",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1",
+      "backgroundColor": "#002b36",
+      "borderColor": "#073642",
+      "placeholderColor": "#586e75"
     },
     "tableHeader": {
-      "backgroundColor": "",
-      "topBorderColor": "",
-      "bottomBorderColor": "",
-      "textColor": "",
-      "controlColor": "",
-      "pressedControlColor": "#586e75"
+      "backgroundColor": "#002b36",
+      "topBorderColor": "#073642",
+      "bottomBorderColor": "#073642",
+      "textColor": "#839496",
+      "controlColor": "#839496",
+      "pressedControlColor": "#93a1a1"
     },
     "table": {
-      "separatorColor": "#93a1a1",
-      "textColor": "",
-      "selectedTextColor": "#586e75",
-      "emphasizedTextColor": "#586e75",
-      "detailColor": "",
-      "selectedDetailColor": "",
-      "emphasizedDetailColor": "",
-      "iconColor": "",
-      "selectedIconColor": "#586e75",
-      "emphasizedIconColor": "#586e75",
-      "rowBgColor": "",
-      "altRowBgColor": "",
-      "selectedRowBgColor": "",
-      "emphasizedRowBgColor": "",
-      "emptyTextColor": "#93a1a1"
+      "separatorColor": "#586e75",
+      "textColor": "#839496",
+      "selectedTextColor": "#93a1a1",
+      "emphasizedTextColor": "#93a1a1",
+      "detailColor": "#002b36",
+      "selectedDetailColor": "#073642",
+      "emphasizedDetailColor": "#073642",
+      "iconColor": "#839496",
+      "selectedIconColor": "#93a1a1",
+      "emphasizedIconColor": "#93a1a1",
+      "rowBgColor": "#002b36",
+      "altRowBgColor": "#002b36",
+      "selectedRowBgColor": "#073642",
+      "emphasizedRowBgColor": "#073642",
+      "emptyTextColor": "#586e75"
     }
   },
   "presentation": {
-    "backgroundColor": ""
+    "backgroundColor": "#002b36"
   },
   "editor": {
     "codeCellTheme": "solarized_dark",
@@ -235,8 +235,8 @@
   },
   "css": {
     "className": "solarized_dark",
-    "editor": ".solarized_dark{color:}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:}.solarized_dark table th{background:}.solarized_dark table td,.solarized_dark table th{border-color:}.solarized_dark blockquote{color:#93a1a1}.solarized_dark hr{background-color:#93a1a1}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:}.solarized_dark .text-cell [style]{color:!important;background-color:transparent!important}.solarized_dark .diagram-cell .ace_editor,.solarized_dark .latex-cell .ace_editor,.solarized_dark .markdown-cell .ace_editor{color:;background-color:}.solarized_dark .markdown-cell .ace_list{color:}.solarized_dark .cell.inEditMode{border-color:;}",
-    "preview": ".solarized_dark{color:}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:}.solarized_dark table th{background:}.solarized_dark table td,.solarized_dark table th{border-color:}.solarized_dark blockquote{color:#93a1a1}.solarized_dark hr{background-color:#93a1a1}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:}.solarized_dark .text-cell [style]{color:!important;background-color:transparent!important}.solarized_dark #tag-field{margin:8px 2px;}.solarized_dark #tag-field .tag{background:;border-radius:2px;color:;}",
-    "presentation": ".solarized_dark{color:}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:}.solarized_dark table th{background:}.solarized_dark table td,.solarized_dark table th{border-color:}.solarized_dark blockquote{color:#93a1a1}.solarized_dark hr{background-color:#93a1a1}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:}.solarized_dark .text-cell [style]{color:!important;background-color:transparent!important}"
+    "editor": ".solarized_dark{color:#839496}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:#073642}.solarized_dark table th{background:#002b36}.solarized_dark table td,.solarized_dark table th{border-color:#073642}.solarized_dark blockquote{color:#586e75}.solarized_dark hr{background-color:#586e75}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:#002b36}.solarized_dark .text-cell [style]{color:#839496!important;background-color:transparent!important}.solarized_dark .diagram-cell .ace_editor,.solarized_dark .latex-cell .ace_editor,.solarized_dark .markdown-cell .ace_editor{color:#839496;background-color:#002b36}.solarized_dark .markdown-cell .ace_list{color:#839496}.solarized_dark .cell.inEditMode{border-color:#073642;}",
+    "preview": ".solarized_dark{color:#839496}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:#073642}.solarized_dark table th{background:#002b36}.solarized_dark table td,.solarized_dark table th{border-color:#073642}.solarized_dark blockquote{color:#586e75}.solarized_dark hr{background-color:#586e75}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:#002b36}.solarized_dark .text-cell [style]{color:#839496!important;background-color:transparent!important}.solarized_dark #tag-field{margin:8px 2px;}.solarized_dark #tag-field .tag{background:#002b36;border-radius:2px;color:#839496;}",
+    "presentation": ".solarized_dark{color:#839496}.solarized_dark a{color:#268bd2}.solarized_dark table tr:nth-child(even){background-color:#073642}.solarized_dark table th{background:#002b36}.solarized_dark table td,.solarized_dark table th{border-color:#073642}.solarized_dark blockquote{color:#586e75}.solarized_dark hr{background-color:#586e75}.solarized_dark code{background-color:rgba(7,54,66,.1)}.solarized_dark svg{background-color:#002b36}.solarized_dark .text-cell [style]{color:#839496!important;background-color:transparent!important}"
   }
 }
