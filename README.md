@@ -22,7 +22,7 @@ For Quiver this [Quiver-only repository](https://github.com/kyanny/Quiver-Theme-
 Installation
 ------------
 
-1. Download [`Solarized Light.json`](./Solarized Light.json) and [`Solarized Dark.json`](./Solarized Dark.json)
+1. Download [`Solarized Light.json`](https://raw.githubusercontent.com/kyanny/Quiver-Theme-Solarized/master/Solarized%20Light.json) and [`Solarized Dark.json`](https://raw.githubusercontent.com/kyanny/Quiver-Theme-Solarized/master/Solarized%20Dark.json)
 2. Open Quiver
 3. Preferences... > Themes > Load Theme...
 4. Choose json file
