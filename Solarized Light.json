@@ -8,7 +8,7 @@
   },
   "sidebar": {
     "topBar": {
-      "backgroundColor": "fdf6e3",
+      "backgroundColor": "#fdf6e3",
       "bottomBorderColor": "#eee8d5",
       "segmentedControl": {
         "tintColor": "#586e75",
