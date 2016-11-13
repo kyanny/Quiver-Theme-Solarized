@@ -14,7 +14,7 @@ def build_light
   @base0 = nil
   @base1 = '#93a1a1'
   @base2 = '#eee8d5'
-  @base2_rgba = '238,232,213,.1'
+  @code_rgba = '238,232,213,.1'
   @base3 = '#fdf6e3'
   @yellow = nil
   @orange = nil
