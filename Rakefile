@@ -39,7 +39,12 @@ def build_dark
   build('Solarized Dark.json')
 end
 
+def cleanup
+  `git clean -fd`
+end
+
 task :default do
   build_light
   build_dark
+  cleanup
 end
