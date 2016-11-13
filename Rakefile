@@ -7,45 +7,25 @@ end
 
 def build_light
   @theme_name = 'solarized_light'
-  @base03 = nil
-  @base02 = nil
-  @base01 = '#586e75'
-  @base00 = '#657b83'
-  @base0 = nil
-  @base1 = '#93a1a1'
-  @base2 = '#eee8d5'
-  @code_rgba = '238,232,213,.1'
-  @base3 = '#fdf6e3'
-  @yellow = nil
-  @orange = nil
-  @red = nil
-  @magenta = nil
-  @violet = nil
+  @optional_emphasized_content = '#586e75'
+  @body_text__default_code__primary_content = '#657b83'
+  @comments__secondary_contents = '#93a1a1'
+  @background_highlights = '#eee8d5'
+  @background_highlights_rgba = '238,232,213,.1'
+  @background = '#fdf6e3'
   @blue = '#268bd2'
-  @cyan = nil
-  @green = nil
   build('Solarized Light.json')
 end
 
 def build_dark
   @theme_name = 'solarized_dark'
-  @base03 = '#002b36'
-  @base02 = '#073642'
-  @base01 = '#586e75'
-  @base00 = nil
-  @base0 = '#839496'
-  @base1 = '#93a1a1'
-  @base2 = nil
-  @code_rgba = '7,54,66,.1'
-  @base3 = nil
-  @yellow = nil
-  @orange = nil
-  @red = nil
-  @magenta = nil
-  @violet = nil
+  @optional_emphasized_content = '#93a1a1'
+  @body_text__default_code__primary_content = '#839496'
+  @comments__secondary_contents = '#586e75'
+  @background_highlights = '#073642'
+  @background_highlights_rgba = '7,54,66,.1'
+  @background = '#002b36'
   @blue = '#268bd2'
-  @cyan = nil
-  @green = nil
   build('Solarized Dark.json')
 end
 
