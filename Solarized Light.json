@@ -1,0 +1,242 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#eee8d5",
+      "middleColor": "#eee8d5",
+      "bottomColor": "#eee8d5"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "fdf6e3",
+      "bottomBorderColor": "#eee8d5",
+      "segmentedControl": {
+        "tintColor": "#586e75",
+        "borderWidth": 2,
+        "borderRadius": 3
+      }
+    },
+    "table": {
+      "backgroundColor": "#fdf6e3",
+      "textColor": "#657b83",
+      "selectedTextColor": "#586e75",
+      "emphasizedTextColor": "#586e75",
+      "iconColor": "#657b83",
+      "selectedIconColor": "#586e75",
+      "emphasizedIconColor": "#586e75",
+      "selectedRowBgColor": "#eee8d5",
+      "emphasizedRowBgColor": "#eee8d5"
+    },
+    "bottomBar": {
+      "backgroundColor": "#fdf6e3",
+      "topBorderColor": "#eee8d5",
+      "textColor": "#657b83",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#fdf6e3",
+      "bottomBorderColor": "#eee8d5",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75"
+    },
+    "tableHeader": {
+      "backgroundColor": "#fdf6e3",
+      "bottomBorderColor": "#eee8d5",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75"
+    },
+    "table": {
+      "backgroundColor": "#fdf6e3",
+      "separatorColor": "#eee8d5",
+      "textColor": "#657b83",
+      "selectedTextColor": "#586e75",
+      "emphasizedTextColor": "#586e75",
+      "detailColor": "#586e75",
+      "selectedDetailColor": "#586e75",
+      "emphasizedDetailColor": "#586e75",
+      "iconColor": "#657b83",
+      "selectedIconColor": "#586e75",
+      "emphasizedIconColor": "#586e75",
+      "rowBgColor": "#fdf6e3",
+      "altRowBgColor": "#fdf6e3",
+      "selectedRowBgColor": "#eee8d5",
+      "emphasizedRowBgColor": "#eee8d5",
+      "draggedRowBgColor": "#eee8d5",
+      "emptyTextColor": "#93a1a1"
+    },
+    "bottomBar": {
+      "backgroundColor": "#fdf6e3",
+      "searchField": {
+        "textColor": "#657b83",
+        "controlColor": "#657b83",
+        "pressedControlColor": "#586e75",
+        "backgroundColor": "#fdf6e3",
+        "borderColor": "#93a1a1",
+        "placeholderColor": "#93a1a1"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#fdf6e3",
+    "dividerColor": "#eee8d5",
+    "topBar": {
+      "backgroundColor": "#fdf6e3",
+      "bottomBorderColor": "#eee8d5",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75",
+      "segmentedControl": {
+        "tintColor": "#586e75",
+        "borderWidth": 2,
+        "borderRadius": 3
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#fdf6e3",
+      "dividerColor": "#eee8d5",
+      "middleDividerColor": "#eee8d5",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75",
+      "iconColor": "#93a1a1",
+      "textColor": "#657b83",
+      "popUpButton": {
+        "titleColor": "#586e75",
+        "borderColor": "#eee8d5"
+      },
+      "tagField": {
+        "textColor": "#657b83",
+        "placeholderColor": "#93a1a1",
+        "tag": {
+          "textColor": "#93a1a1",
+          "selectedTextColor": "#657b83",
+          "backgroundColor": "#fdf6e3",
+          "selectedBackgroundColor": "#eee8d5",
+          "borderRadius": 4
+        }
+      },
+      "formatBar": {
+        "controlColor": "#657b83",
+        "highlightColor": "#586e75"
+      },
+      "searchField": {
+        "textColor": "#657b83",
+        "controlColor": "#657b83",
+        "pressedControlColor": "#586e75",
+        "backgroundColor": "#fdf6e3",
+        "borderColor": "#eee8d5",
+        "placeholderColor": "#93a1a1"
+      },
+      "doneButton": {
+        "textColor": "#657b83",
+        "highlightBackgroundColor": "#eee8d5",
+        "borderColor": "#eee8d5"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#fdf6e3",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#fdf6e3",
+    "textColor": "#657b83",
+    "button": {
+      "tintColor": "#586e75",
+      "highlightColor": "#586e75",
+      "backgroundColor": "#fdf6e3",
+      "highlightBackgroundColor": "#eee8d5",
+      "borderColor": "#eee8d5",
+      "highlightBorderColor": "#eee8d5"
+    },
+    "tagField": {
+      "textColor": "#657b83",
+      "placeholderColor": "#93a1a1",
+      "backgroundColor": "#fdf6e3",
+      "borderColor": "#eee8d5",
+      "borderRadius": 4,
+      "tag": {
+        "textColor": "#657b83",
+        "selectedTextColor": "#586e75",
+        "backgroundColor": "#fdf6e3",
+        "selectedBackgroundColor": "#eee8d5",
+        "borderRadius": 4
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#fdf6e3",
+    "textColor": "#657b83",
+    "dividerColor": "#eee8d5",
+    "searchField": {
+      "textColor": "#657b83",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75",
+      "backgroundColor": "#fdf6e3",
+      "borderColor": "#eee8d5",
+      "placeholderColor": "#93a1a1"
+    },
+    "table": {
+      "textColor": "#657b83",
+      "selectedTextColor": "#586e75",
+      "emphasizedTextColor": "#586e75",
+      "iconColor": "#657b83",
+      "selectedIconColor": "#586e75",
+      "emphasizedIconColor": "#586e75",
+      "selectedRowBgColor": "#eee8d5",
+      "emphasizedRowBgColor": "#eee8d5",
+      "emptyTextColor": "#93a1a1"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#fdf6e3",
+    "searchField": {
+      "textColor": "#657b83",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75",
+      "backgroundColor": "#fdf6e3",
+      "borderColor": "#eee8d5",
+      "placeholderColor": "#93a1a1"
+    },
+    "tableHeader": {
+      "backgroundColor": "#fdf6e3",
+      "topBorderColor": "#eee8d5",
+      "bottomBorderColor": "#eee8d5",
+      "textColor": "#657b83",
+      "controlColor": "#657b83",
+      "pressedControlColor": "#586e75"
+    },
+    "table": {
+      "separatorColor": "#93a1a1",
+      "textColor": "#657b83",
+      "selectedTextColor": "#586e75",
+      "emphasizedTextColor": "#586e75",
+      "detailColor": "#fdf6e3",
+      "selectedDetailColor": "#eee8d5",
+      "emphasizedDetailColor": "#eee8d5",
+      "iconColor": "#657b83",
+      "selectedIconColor": "#586e75",
+      "emphasizedIconColor": "#586e75",
+      "rowBgColor": "#fdf6e3",
+      "altRowBgColor": "#fdf6e3",
+      "selectedRowBgColor": "#eee8d5",
+      "emphasizedRowBgColor": "#eee8d5",
+      "emptyTextColor": "#93a1a1"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#fdf6e3"
+  },
+  "editor": {
+    "codeCellTheme": "solarized_light",
+    "markdownCellTheme": "solarized_light"
+  },
+  "css": {
+    "className": "solarized_light",
+    "editor": ".solarized_light{color:#657b83}.solarized_light a{color:#268bd2}.solarized_light table tr:nth-child(even){background-color:#eee8d5}.solarized_light table th{background:#fdf6e3}.solarized_light table td,.solarized_light table th{border-color:#eee8d5}.solarized_light blockquote{color:#93a1a1}.solarized_light hr{background-color:#93a1a1}.solarized_light code{background-color:rgba(238,232,213,.1)}.solarized_light svg{background-color:#fdf6e3}.solarized_light .text-cell [style]{color:#657b83!important;background-color:transparent!important}.solarized_light .diagram-cell .ace_editor,.solarized_light .latex-cell .ace_editor,.solarized_light .markdown-cell .ace_editor{color:#657b83;background-color:#fdf6e3}.solarized_light .markdown-cell .ace_list{color:#657b83}.solarized_light .cell.inEditMode{border-color:#eee8d5;}",
+    "preview": ".solarized_light{color:#657b83}.solarized_light a{color:#268bd2}.solarized_light table tr:nth-child(even){background-color:#eee8d5}.solarized_light table th{background:#fdf6e3}.solarized_light table td,.solarized_light table th{border-color:#eee8d5}.solarized_light blockquote{color:#93a1a1}.solarized_light hr{background-color:#93a1a1}.solarized_light code{background-color:rgba(238,232,213,.1)}.solarized_light svg{background-color:#fdf6e3}.solarized_light .text-cell [style]{color:#657b83!important;background-color:transparent!important}.solarized_light #tag-field{margin:8px 2px;}.solarized_light #tag-field .tag{background:#fdf6e3;border-radius:2px;color:#657b83;}",
+    "presentation": ".solarized_light{color:#657b83}.solarized_light a{color:#268bd2}.solarized_light table tr:nth-child(even){background-color:#eee8d5}.solarized_light table th{background:#fdf6e3}.solarized_light table td,.solarized_light table th{border-color:#eee8d5}.solarized_light blockquote{color:#93a1a1}.solarized_light hr{background-color:#93a1a1}.solarized_light code{background-color:rgba(238,232,213,.1)}.solarized_light svg{background-color:#fdf6e3}.solarized_light .text-cell [style]{color:#657b83!important;background-color:transparent!important}"
+  }
+}
