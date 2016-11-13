@@ -1,6 +1,16 @@
 require 'erb'
+require 'sass'
+
+def build_css
+  %w[css_editor css_preview css_presentation].each do |name|
+    File.write("#{name}.scss", ERB.new(File.read("#{name}.scss.erb")).result)
+    system "sass -t compressed --sourcemap=none #{name}.scss #{name}.css"
+    instance_variable_set("@#{name}", File.read("#{name}.css").chomp)
+  end
+end
 
 def build(file_name)
+  build_css
   json = ERB.new(File.read('Solarized.json.erb')).result
   File.write(file_name, json)
 end
