@@ -27,6 +27,29 @@ def build_light
   build('Solarized Light.json')
 end
 
+def build_dark
+  @theme_name = 'solarized_dark'
+  @base03 = '#002b36'
+  @base02 = '#073642'
+  @base01 = '#586e75'
+  @base00 = nil
+  @base0 = '#839496'
+  @base1 = '#93a1a1'
+  @base2 = nil
+  @code_rgba = '7,54,66,.1'
+  @base3 = nil
+  @yellow = nil
+  @orange = nil
+  @red = nil
+  @magenta = nil
+  @violet = nil
+  @blue = '#268bd2'
+  @cyan = nil
+  @green = nil
+  build('Solarized Dark.json')
+end
+
 task :build do
   build_light
+  build_dark
 end
